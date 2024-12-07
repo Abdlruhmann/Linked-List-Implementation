@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733596626 source:d:\iti intake 45\lunch\dsa\lab\lab1_linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
