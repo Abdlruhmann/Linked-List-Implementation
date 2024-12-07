@@ -24,5 +24,4 @@ This repository contains a C program that implements a **doubly linked list** to
 
 ## Compilation:
 ```bash
-gcc linked_list.c -o linked_list
-./linked_list
+gcc main.c -o main && ./main
